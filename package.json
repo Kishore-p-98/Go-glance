@@ -23,6 +23,13 @@
 				"command": "golangglance.glanceGo",
 				"title": "Glance Go"
 			}
+		],
+		"keybindings": [
+			{
+				"command": "golangglance.glanceGo",
+				"key": "shift+q",
+				"mac": "shift+q"
+			}
 		]
 	},
 	"scripts": {
